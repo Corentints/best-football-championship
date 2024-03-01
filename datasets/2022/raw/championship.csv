@@ -9,6 +9,7 @@ Bundesliga;Cologne
 Bundesliga;FSV Mayence 05
 Bundesliga;Hoffenheim
 Bundesliga;Borussia Mönchengladbach
+Bundesliga;M'Gladbach
 Bundesliga;Eint Frankfurt
 Bundesliga;VfL Wolfsburg
 Bundesliga;VfL Bochum
@@ -22,6 +23,8 @@ Premier League;Liverpool
 Premier League;Chelsea
 Premier League;Tottenham
 Premier League;Arsenal
+Premier League;Fulham
+Premier League;Wolves
 Premier League;Manchester Utd
 Premier League;West Ham
 Premier League;Leicester City
@@ -40,11 +43,11 @@ Premier League;Norwich City
 Ligue 1;Paris S-G
 Ligue 1;Marseille
 Ligue 1;Monaco
-Ligue 1;Stade rennais
+Ligue 1;Rennes
 Ligue 1;OGC Nice
 Ligue 1;RC Strasbourg
 Ligue 1;RC Lens
-Ligue 1;Olympique lyonnais
+Ligue 1;Lyon
 Ligue 1;Nantes
 Ligue 1;LOLille
 Ligue 1;Brest
@@ -61,7 +64,7 @@ Liga;Barcelona
 Liga;Real Madrid
 Liga;Atlético Madrid
 Liga;Real Sociedad
-Liga;Villarreal CF
+Liga;Villarreal
 Liga;Betis
 Liga;Osasuna
 Liga;Athletic Bilbao
@@ -81,10 +84,10 @@ Serie A;SNaples
 Serie A;SS Lazio
 Serie A;Inter
 Serie A;Milan
-Serie A;Atalanta Bergame
-Serie A;AS Rome
+Serie A;Atalanta
+Serie A;Roma
 Serie A;Juventus
-Serie A;ACF Fiorentina
+Serie A;Fiorentina
 Serie A;Bologne
 Serie A;Torino
 Serie A;AC Monza
@@ -96,7 +99,7 @@ Serie A;US Lecce
 Serie A;Hellas Vérone
 Serie A;Spezia Calcio
 Serie A;US Cremonese
-Serie A;Sampdoria de Gênes
+Serie A;Sampdoria
 Prva Liga;Dinamo Zagreb
 Prva Liga;HNK Hajduk Split
 Prva Liga;NK Osijek
@@ -166,7 +169,7 @@ Jupiler Pro League;Royale Union Saint-Gilloise
 Jupiler Pro League;Antwerp
 Jupiler Pro League;Club Bruges 
 Jupiler Pro League;KAA La Gantoise
-Jupiler Pro League;Standard de Liège
+Jupiler Pro League;Standard Liège
 Jupiler Pro League;KVC Westerlo
 Jupiler Pro League;Cercle Bruges
 Jupiler Pro League;Sporting Charleroi
@@ -274,3 +277,17 @@ Botola Pro1;MA Tétouan
 Botola Pro1;IR Tanger
 Botola Pro1;OC Khouribga
 Botola Pro1;DH El Jadida
+Championnat d'Arabie saoudite;Al-Ittihad
+Championnat d'Arabie saoudite;Qatar SC
+Championnat d'Arabie saoudite;Al-Wehda
+Scottish Premiership;Rangers
+Scottish Premiership;Celtic
+Championnat du Mexique;UNAM
+Première ligue russe;Zenit
+EFL Championship;QPR
+Championnat de Croatie;Hajduk Split
+Championnat de Belqique;Club Brugge
+Süper Lig;Beşiktaş
+Major League Soccer;Atlanta Utd
+Série B;Bari
+Botola;Wydad Casablanca
