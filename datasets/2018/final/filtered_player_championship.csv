@@ -1,0 +1,162 @@
+player,position,team,club,championship
+Fernando Muslera,GK,Uruguay,Galatasaray,Süper Lig
+José Giménez,DF,Uruguay,Atlético Madrid,Liga
+Diego Godín (captain),DF,Uruguay,Atlético Madrid,Liga
+Guillermo Varela,DF,Uruguay,Peñarol,Primera División
+Carlos Sánchez,MF,Uruguay,Monterrey,Liga MX
+Rodrigo Bentancur,MF,Uruguay,Juventus,Serie A
+Cristian Rodríguez,MF,Uruguay,Peñarol,Primera División
+Nahitan Nández,MF,Uruguay,Boca Juniors,Primera División
+Luis Suárez,FW,Uruguay,Barcelona,Liga
+Giorgian De Arrascaeta,FW,Uruguay,Cruzeiro,Brasileiro Serie A
+Cristhian Stuani,FW,Uruguay,Girona,Liga
+Martín Campaña,GK,Uruguay,CA Independiente,Primera División
+Gastón Silva,DF,Uruguay,CA Independiente,Primera División
+Lucas Torreira,MF,Uruguay,Sampdoria,Serie A
+Matías Vecino,MF,Uruguay,Inter,Serie A
+Maxi Pereira,DF,Uruguay,Porto,Liga Portugal Bwin
+Diego Laxalt,MF,Uruguay,Genoa,Serie A
+Maxi Gómez,FW,Uruguay,Celta Vigo,La Liga
+Sebastián Coates,DF,Uruguay,Sporting CP,Liga Portugal Bwin
+Jonathan Urretaviscaya,FW,Uruguay,Monterrey,Liga MX
+Edinson Cavani,FW,Uruguay,Paris S-G,Ligue 1
+Martín Cáceres,DF,Uruguay,SS Lazio,Serie A
+Martín Silva,GK,Uruguay,Vasco da Gama,Brasileiro Serie A
+Hugo Lloris (captain),GK,France,Tottenham,Premier League
+Benjamin Pavard,DF,France,Stuttgart,Bundesliga
+Presnel Kimpembe,DF,France,Paris S-G,Ligue 1
+Raphaël Varane,DF,France,Real Madrid,Liga
+Samuel Umtiti,DF,France,Barcelona,Liga
+Paul Pogba,MF,France,Manchester Utd,Premier League
+Antoine Griezmann,FW,France,Atlético Madrid,Liga
+Thomas Lemar,FW,France,Monaco,Ligue 1
+Olivier Giroud,FW,France,Chelsea,Premier League
+Kylian Mbappé,FW,France,Paris S-G,Ligue 1
+Ousmane Dembélé,FW,France,Barcelona,Liga
+Corentin Tolisso,MF,France,Bayern Munich,Bundesliga
+N'Golo Kanté,MF,France,Chelsea,Premier League
+Blaise Matuidi,MF,France,Juventus,Serie A
+Steven Nzonzi,MF,France,Sevilla,Liga
+Steve Mandanda,GK,France,Marseille,Ligue 1
+Adil Rami,DF,France,Marseille,Ligue 1
+Nabil Fekir,FW,France,Lyon,Ligue 1
+Djibril Sidibé,DF,France,Monaco,Ligue 1
+Florian Thauvin,FW,France,Marseille,Ligue 1
+Lucas Hernández,DF,France,Atlético Madrid,Liga
+Benjamin Mendy,DF,France,Manchester City,Premier League
+Alphonse Areola,GK,France,Paris S-G,Ligue 1
+Dominik Livaković,GK,Croatie,Dinamo Zagreb,Prva Liga
+Šime Vrsaljko,DF,Croatie,Atlético Madrid,Liga
+Ivan Strinić,DF,Croatie,Sampdoria,Serie A
+Ivan Perišić,FW,Croatie,Inter,Serie A
+Vedran Ćorluka,DF,Croatie,Lokomotiv Moscou,Premier-Liga
+Dejan Lovren,DF,Croatie,Liverpool,Premier League
+Ivan Rakitić,MF,Croatie,Barcelona,Liga
+Mateo Kovačić,MF,Croatie,Real Madrid,Liga
+Andrej Kramarić,FW,Croatie,Hoffenheim,Bundesliga
+Luka Modrić (captain),MF,Croatie,Real Madrid,Liga
+Marcelo Brozović,MF,Croatie,Inter,Serie A
+Lovre Kalinić,GK,Croatie,Gent,Jupiler Pro League
+Tin Jedvaj,DF,Croatie,Leverkusen,Bundesliga
+Filip Bradarić,MF,Croatie,Rijeka,Prva HNL
+Duje Ćaleta-Car,DF,Croatie,Red Bull Salzburg,Austrian Bundesliga
+Nikola Kalinić,FW,Croatie,Milan,Serie A
+Mario Mandžukić,FW,Croatie,Juventus,Serie A
+Ante Rebić,FW,Croatie,Eint Frankfurt,Bundesliga
+Milan Badelj,MF,Croatie,Fiorentina,Serie A
+Marko Pjaca,FW,Croatie,Schalke 04,Bundesliga
+Domagoj Vida,DF,Croatie,Beşiktaş,Süper Lig
+Josip Pivarić,DF,Croatie,Dynamo Kyiv,Ukrainian Premier League
+Danijel Subašić,GK,Croatie,Monaco,Ligue 1
+Alisson,GK,Brésil,Roma,Serie A
+Thiago Silva,DF,Brésil,Paris S-G,Ligue 1
+Miranda,DF,Brésil,Inter,Serie A
+Pedro Geromel,DF,Brésil,Grêmio,Brasileiro Serie A
+Casemiro,MF,Brésil,Real Madrid,Liga
+Filipe Luís,DF,Brésil,Atlético Madrid,Liga
+Douglas Costa,FW,Brésil,Juventus,Serie A
+Renato Augusto,MF,Brésil,Beijing Sinobo Guoan,Chinese Super League
+Gabriel Jesus,FW,Brésil,Manchester City,Premier League
+Neymar,FW,Brésil,Paris S-G,Ligue 1
+Philippe Coutinho,MF,Brésil,Barcelona,Liga
+Marcelo,DF,Brésil,Real Madrid,Liga
+Marquinhos,DF,Brésil,Paris S-G,Ligue 1
+Danilo,DF,Brésil,Manchester City,Premier League
+Paulinho,MF,Brésil,Barcelona,Liga
+Cássio,GK,Brésil,Corinthians,Brasileiro Serie A
+Fernandinho,MF,Brésil,Manchester City,Premier League
+Fred,MF,Brésil,Shakhtar Donetsk,Ukrainian Premier League
+Willian,MF,Brésil,Chelsea,Premier League
+Roberto Firmino,FW,Brésil,Liverpool,Premier League
+Taison,FW,Brésil,Shakhtar Donetsk,Ukrainian Premier League
+Fagner,DF,Brésil,Corinthians,Brasileiro Serie A
+Ederson,GK,Brésil,Manchester City,Premier League
+Robin Olsen,GK,Suède,Copenhagen,Danish Superliga
+Mikael Lustig,DF,Suède,Celtic,Scottish Premiership
+Victor Lindelöf,DF,Suède,Manchester Utd,Premier League
+Andreas Granqvist (captain),DF,Suède,Krasnodar,Russian Premier League
+Martin Olsson,DF,Suède,Swansea City,Championship
+Ludwig Augustinsson,DF,Suède,Werder Bremen,Bundesliga
+Sebastian Larsson,MF,Suède,Hull City,Championship
+Albin Ekdal,MF,Suède,Hamburger SV,2. Bundesliga
+Marcus Berg,FW,Suède,Al Ain,UAE Pro League
+Emil Forsberg,MF,Suède,RB Leipzig,Bundesliga
+John Guidetti,FW,Suède,Alavés,La Liga
+Karl-Johan Johnsson,GK,Suède,Guingamp,Ligue 1
+Gustav Svensson,MF,Suède,Seattle Sounders FC,Major League Soccer
+Filip Helander,DF,Suède,Bologne,Serie A
+Oscar Hiljemark,MF,Suède,Genoa,Serie A
+Emil Krafth,DF,Suède,Bologne,Serie A
+Viktor Claesson,MF,Suède,Krasnodar,Russian Premier League
+Pontus Jansson,DF,Suède,Leeds utd,Premier League
+Marcus Rohdén,MF,Suède,Crotone,Serie A
+Ola Toivonen,FW,Suède,Toulouse,Ligue 1
+Jimmy Durmaz,MF,Suède,Toulouse,Ligue 1
+Isaac Kiese Thelin,FW,Suède,Waasland-Beveren,Jupiler Pro League
+Kristoffer Nordfeldt,GK,Suède,Swansea City,Championship
+Thibaut Courtois,GK,Belgique,Chelsea,Premier League
+Toby Alderweireld,DF,Belgique,Tottenham,Premier League
+Thomas Vermaelen,DF,Belgique,Barcelona,Liga
+Vincent Kompany,DF,Belgique,Manchester City,Premier League
+Jan Vertonghen,DF,Belgique,Tottenham,Premier League
+Axel Witsel,MF,Belgique,Tianjin Quanjian,Chinese Super League
+Kevin De Bruyne,MF,Belgique,Manchester City,Premier League
+Marouane Fellaini,MF,Belgique,Manchester Utd,Premier League
+Romelu Lukaku,FW,Belgique,Manchester Utd,Premier League
+Eden Hazard (captain),FW,Belgique,Chelsea,Premier League
+Yannick Carrasco,MF,Belgique,Dalian Yifang,Chinese Super League
+Simon Mignolet,GK,Belgique,Liverpool,Premier League
+Koen Casteels,GK,Belgique,VfL Wolfsburg,Bundesliga
+Dries Mertens,FW,Belgique,Naples,Serie A
+Thomas Meunier,DF,Belgique,Paris S-G,Ligue 1
+Thorgan Hazard,MF,Belgique,Borussia Mönchengladbach,Bundesliga
+Youri Tielemans,MF,Belgique,Monaco,Ligue 1
+Adnan Januzaj,FW,Belgique,Real Sociedad,Liga
+Mousa Dembélé,MF,Belgique,Tottenham,Premier League
+Dedryck Boyata,DF,Belgique,Celtic,Scottish Premiership
+Michy Batshuayi,FW,Belgique,Dortmund,Bundesliga
+Nacer Chadli,MF,Belgique,West Bromwich Albion,Premier League
+Leander Dendoncker,DF,Belgique,Anderlecht,Jupiler Pro League
+Jordan Pickford,GK,Royaume-Uni,Everton,Premier League
+Kyle Walker,DF,Royaume-Uni,Manchester City,Premier League
+Danny Rose,DF,Royaume-Uni,Tottenham,Premier League
+Eric Dier,MF,Royaume-Uni,Tottenham,Premier League
+John Stones,DF,Royaume-Uni,Manchester City,Premier League
+Harry Maguire,DF,Royaume-Uni,Leicester City,Premier League
+Jesse Lingard,MF,Royaume-Uni,Manchester Utd,Premier League
+Jordan Henderson,MF,Royaume-Uni,Liverpool,Premier League
+Harry Kane (captain),FW,Royaume-Uni,Tottenham,Premier League
+Raheem Sterling,FW,Royaume-Uni,Manchester City,Premier League
+Jamie Vardy,FW,Royaume-Uni,Leicester City,Premier League
+Kieran Trippier,DF,Royaume-Uni,Tottenham,Premier League
+Jack Butland,GK,Royaume-Uni,Stoke City,Championship
+Danny Welbeck,FW,Royaume-Uni,Arsenal,Premier League
+Gary Cahill,DF,Royaume-Uni,Chelsea,Premier League
+Phil Jones,DF,Royaume-Uni,Manchester Utd,Premier League
+Fabian Delph,DF,Royaume-Uni,Manchester City,Premier League
+Ashley Young,DF,Royaume-Uni,Manchester Utd,Premier League
+Marcus Rashford,FW,Royaume-Uni,Manchester Utd,Premier League
+Dele Alli,MF,Royaume-Uni,Tottenham,Premier League
+Ruben Loftus-Cheek,MF,Royaume-Uni,Crystal Palace,Premier League
+Trent Alexander-Arnold,DF,Royaume-Uni,Liverpool,Premier League
+Nick Pope,GK,Royaume-Uni,Burnley,Premier League
