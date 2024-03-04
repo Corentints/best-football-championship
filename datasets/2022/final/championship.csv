@@ -49,7 +49,7 @@ Ligue 1;RC Strasbourg;France
 Ligue 1;RC Lens;France
 Ligue 1;Lyon;France
 Ligue 1;Nantes;France
-Ligue 1;LOLille;France
+Ligue 1;Lille;France
 Ligue 1;Brest;France
 Ligue 1;Stade de Reims;France
 Ligue 1;Montpellier HSC;France
@@ -80,7 +80,7 @@ Liga;UD Almería;Espagne
 Liga;Valladolid;Espagne
 Liga;RCD Espanyol de Barcelone;Espagne
 Liga;Elche CF;Espagne
-Serie A;SNaples;Italie
+Serie A;Naples;Italie
 Serie A;SS Lazio;Italie
 Serie A;Inter;Italie
 Serie A;Milan;Italie
@@ -174,7 +174,7 @@ Jupiler Pro League;KVC Westerlo;Belgique
 Jupiler Pro League;Cercle Bruges;Belgique
 Jupiler Pro League;Sporting Charleroi;Belgique
 Jupiler Pro League;OH Louvain;Belgique
-Jupiler Pro League;RAnderlecht;Belgique
+Jupiler Pro League;Anderlecht;Belgique
 Jupiler Pro League;Saint-Trond VV;Belgique
 Jupiler Pro League;KV Malines;Belgique
 Jupiler Pro League;KV Courtrai;Belgique
@@ -280,12 +280,39 @@ Championnat d'Arabie saoudite;Qatar SC;Arabie Saoudite
 Championnat d'Arabie saoudite;Al-Wehda;Arabie Saoudite
 Scottish Premiership;Rangers;Écosse
 Scottish Premiership;Celtic;Écosse
-Championnat du Mexique;UNAM;Mexique
-Première ligue russe;Zenit;Russie
+Liga MX;UNAM;Mexique
+Premier-Liga;Zenit;Russie
 EFL Championship;QPR;Royaume-Uni
-Championnat de Croatie;Hajduk Split;Croatie
-Championnat de Belqique;Club Brugge;Belgique
+Prva Liga;Hajduk Split;Croatie
+Jupiler Pro League;Club Brugge;Belgique
 Süper Lig;Beşiktaş;Turquie
 Major League Soccer;Atlanta Utd;États-Unis
 Série B;Bari;Italie
-Botola;Wydad Casablanca;Maroc
+Botola Pro1;Wydad Casablanca;Maroc
+Bundesliga;Schalke 04;Allemagne
+Premier League;West Bromwich Albion;Royaume-Uni
+EFL Championship;Swansea City;Royaume-Uni
+EFL Championship;Stoke City;Royaume-Uni
+EFL Championship;Hull City;Royaume-Uni
+Bundesliga;Werder Bremen;Allemagne
+Bundesliga;Hamburger SV;Allemagne
+Serie A;Crotone;Italie
+Jupiler Pro League;Waasland-Beveren;Belgique
+Ligue 1;Guingamp;France
+Austrian Bundesliga;Red Bull Salzburg;Autriche
+Ukrainian Premier League;Dynamo Kyiv;Ukraine
+Ukrainian Premier League;Shakhtar Donetsk;Ukraine
+Chinese Super League;Beijing Sinobo Guoan;Chine
+Chinese Super League;Tianjin Quanjian;Chine
+Chinese Super League;Dalian Yifang;Chine
+Danish Superliga;Copenhagen;Danemark
+UAE Pro League;Al Ain;Émirats Arabes Unis
+Major League Soccer;Seattle Sounders FC;États-Unis
+Liga MX;Monterrey;Mexique
+Süper Lig;Galatasaray;Turquie
+Serie A;Genoa;Italie
+Liga;Celta Vigo;Espagne
+Jupiler Pro League;Gent;Belgique
+Prva Liga;Rijeka;Croatie
+Premier-Liga;Krasnodar;Russie
+Liga;Alavés;Espagne
